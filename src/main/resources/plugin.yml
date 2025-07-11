@@ -1,0 +1,5 @@
+name: Hostess
+version: 1.0
+main: hostess.Hostess
+api-version: 1.20
+description: Welcomes players when they join the server
